@@ -35,9 +35,9 @@
  */
 dependencies {
     api("com.github.GTNewHorizons:Postea:1.1.1:dev")
-    api("com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:rv3-beta-632-GTNH:dev")
-    api("com.github.GTNewHorizons:AE2FluidCraft-Rework:1.4.86-gtnh:dev")
+    api("com.github.GTNewHorizons:Applied-Energistics-2-Unofficial:rv3-beta-639-GTNH:dev")
+    api("com.github.GTNewHorizons:AE2FluidCraft-Rework:1.4.89-gtnh:dev")
 
-    runtimeOnlyNonPublishable("com.github.GTNewHorizons:NotEnoughItems:2.7.4-GTNH:dev")
-    runtimeOnlyNonPublishable("com.github.GTNewHorizons:waila:1.8.7:dev")
+    runtimeOnlyNonPublishable("com.github.GTNewHorizons:NotEnoughItems:2.7.57-GTNH:dev")
+    runtimeOnlyNonPublishable("com.github.GTNewHorizons:waila:1.8.8:dev")
 }
